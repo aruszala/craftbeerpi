@@ -1,3 +1,5 @@
 markdown: redcarpet
 baseurl: /craftbeerpi
 exclude: ['README.md']
+
+theme: jekyll-theme-architect
